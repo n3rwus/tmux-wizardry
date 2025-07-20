@@ -1,0 +1,13 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Plugin auto-install folders
+.tmux/plugins/
+/plugins
+
+# Swap or temp files
+*.swp
+*.bak
+*~
+*.log
